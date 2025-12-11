@@ -32,5 +32,3 @@ Deployment as a full Web Application
 Acknowledgements
 
 We thank our guide, Dr. P. Veera Prakash, and SRIT for continuous support throughout the project.
-
-If you want this in GitHub Markdown file format (.md) ready to copy-paste, I can format it even cleaner.
