@@ -1,5 +1,5 @@
 ECOVISION: Deep Learning Model for Seasonal Detection
-Authors: Sharath Kumar M, Sharath V, Maneedeep M
+Authors: Sharath V,Sharath Kumar M,  Maneedeep M
 Guide: Dr. P. Veera Prakash, M.Tech., Ph.D.
 Institute: Srinivasa Ramanujan Institute of Technology
 Repository: Batch-B02-2025-2026
